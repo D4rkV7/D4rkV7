@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4rkV7
 - 👀 I’m interested in volleyball
-- 🌱 I’m currently learning how two code
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me ...
 
